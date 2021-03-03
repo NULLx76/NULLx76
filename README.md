@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a Computer Science and Engineering student at the TU Delft.
 
-I enjoy creating various programming sideprojects which can be found on this github profile and in the [Finitum](/finitum) organization.
+I enjoy creating various programming sideprojects which can be found on this github profile and in the [Finitum](../../../../finitum) organization.
 The main programming languages I enjoy working in are Rust, Go and recently Elixir. 
 
 I also have a homelab with various servers on which I run a variety of services, mostly on top of Kubernetes; some of the sites linked below are hosted on those servers.
