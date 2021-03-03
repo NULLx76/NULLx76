@@ -1,16 +1,22 @@
 ### Hi there 👋
+I am a Computer Science and Engineering student at the TU Delft.
 
-<!--
-**NULLx76/NULLx76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy creating various programming sideprojects which can be found on this github profile and in the [Finitum](/finitum) organization.
+The main programming languages I enjoy working in are Rust, Go and recently Elixir. 
 
-Here are some ideas to get you started:
+I also have a homelab with various servers on which I run a variety of services, mostly on top of Kubernetes; some of the sites linked below are hosted on those servers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Links
+* [0x76.dev](https://0x76.dev)
+* [My Blog](https://blog.xirion.net)
+* [Self-Hosted Gitea](https://git.xirion.net)
+* [Twitter](https://twitter.com/0x76_)
+<!-- * [Wooloo!](https://wooloofan.club) -->
+
+<details>
+  <summary>See Stats</summary>
+  
+  ![Git Stats](https://github-readme-stats.vercel.app/api?username=NULLx76&count_private=true)
+  
+  ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NULLx76)
+</details
