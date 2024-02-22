@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Computer Science and Engineering student at the TU Delft.
+I am a CESE student at the TU Delft.
 
 I enjoy working on various programming sideprojects which can be found on this github profile.
 The main programming languages I enjoy working in are Rust, Go and Elixir. 
